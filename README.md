@@ -1,3 +1,8 @@
+# Whiteboarding Project
+#### By Shanen Cross
+
+### Mock Whiteboarding Interview Practice
+
 Determines whether all elements in a string are unique
 
 May not convert string to array or use array methods to solve this problem
